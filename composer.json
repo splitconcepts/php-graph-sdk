@@ -1,5 +1,5 @@
 {
-    "name": "splticoncepts/php-graph-sdk",
+    "name": "splitconcepts/php-graph-sdk",
     "description": "Forked Facebook SDK for PHP 8",
     "keywords": ["facebook", "sdk"],
     "type": "library",
